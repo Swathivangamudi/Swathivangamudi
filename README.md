@@ -25,6 +25,14 @@ Welcome to my GitHub! I'm passionate about building intelligent systems that mak
 
 Here are some of my top AI & Web Development projects:
 
+
+## PORTFOLIO based on bootstrap 
+This portfolio show cases my skills and knowledge.
+
+
+[🔗 View Project](https://github.com/Swathivangamudi/portfolio-bootstrap)
+
+
 ### 🧠 AI-Powered Learning Companion
 > _Your personal tutor powered by multimodal AI_
 
@@ -33,7 +41,7 @@ Here are some of my top AI & Web Development projects:
 - 🌐 Languages: English, Telugu, Hindi
 - 🔍 OCR + Gemini API for image understanding
 - 🎙️ Speech-to-text + Text-to-speech support  
-[🔗 View Project]([https://github.com/YourUsername/AI-Learning-Companion](https://github.com/Swathivangamudi/ai-learning-chatbot))
+[🔗 View Project](https://github.com/Swathivangamudi/ai-learning-chatbot)
 
 ---
 
@@ -45,7 +53,7 @@ Here are some of my top AI & Web Development projects:
 - ✍️ Live editing, saving, and document sharing
 - 📁 MongoDB/PostgreSQL support
 - 🔐 Role-based access & secure sessions  
-[🔗 View Project]([https://github.com/YourUsername/Realtime-Doc-Editor](https://github.com/Swathivangamudi/texteditor))
+[🔗 View Project](https://github.com/Swathivangamudi/texteditor)
 
 ---
 
