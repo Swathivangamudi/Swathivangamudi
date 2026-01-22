@@ -8,8 +8,7 @@ Welcome to my GitHub! I'm passionate about building intelligent systems that mak
 
 ## 🎓 About Me
 
-- 🔭 I’m currently working on my "portfolio"..  
-- 🌱 I’m currently learning  full stack web Development, and exploring internet of things(IOT) 
+- 🌱 I’m currently learning  full stack web Development, and AI
 - 👯 I’m looking to collaborate on full stack web development and iot project..
 - 📫 How to reach me: vangamudiswathi09@gmail.com.
   
