@@ -7,10 +7,9 @@ Welcome to my GitHub! I'm passionate about building intelligent systems that mak
   I have a keen interest in software development, machine learning, Artificial Intelligence and I'm excited to share my projects and learning journey with you!
 
 ## 🎓 About Me
-
-- 🌱 I’m currently learning  full stack web Development, and AI
-- 👯 I’m looking to collaborate on full stack web development and iot project..
-- 📫 How to reach me: vangamudiswathi09@gmail.com.
+- 👯 Ai trainee at Calibo 
+- 🌱 I’m currently learning  machine learning and AI
+ - 📫 How to reach me: vangamudiswathi09@gmail.com.
   
 ## 🛠️ Skills & Technologies
 - **Languages**: Python, Java, C++
